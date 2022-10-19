@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GameEngine
+comment1.params=windowTitle\ width\ height\ vSync\ gameLogic
+comment1.target=GameEngine(java.lang.String,\ int,\ int,\ boolean,\ IGameLogic)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ init()
+comment4.params=
+comment4.target=void\ gameLoop()
+comment5.params=
+comment5.target=void\ sync()
+comment6.params=
+comment6.target=void\ input()
+comment7.params=interval
+comment7.target=void\ update(float)
+comment8.params=
+comment8.target=void\ render()
+comment9.params=
+comment9.target=void\ cleanup()
+numComments=10

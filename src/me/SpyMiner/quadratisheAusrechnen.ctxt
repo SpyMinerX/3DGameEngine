@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=quadratisheAusrechnen
+comment1.params=a\ b\ c
+comment1.target=quadratisheAusrechnen(double,\ double,\ double)
+comment2.params=a\ b\ c
+comment2.target=int\ nullstellen(double,\ double,\ double)
+numComments=3

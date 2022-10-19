@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ShaderProgram
+comment1.params=
+comment1.target=ShaderProgram()
+comment2.params=shaderCode
+comment2.target=void\ createVertexShader(java.lang.String)
+comment3.params=shaderCode
+comment3.target=void\ createFragmentShader(java.lang.String)
+comment4.params=shaderCode\ shaderType
+comment4.target=int\ createShader(java.lang.String,\ int)
+comment5.params=
+comment5.target=void\ link()
+comment6.params=
+comment6.target=void\ bind()
+comment7.params=
+comment7.target=void\ unbind()
+comment8.params=
+comment8.target=void\ cleanup()
+numComments=9
