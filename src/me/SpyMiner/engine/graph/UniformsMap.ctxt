@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UniformsMap
+comment1.params=programId
+comment1.target=UniformsMap(int)
+comment2.params=uniformName
+comment2.target=void\ createUniform(java.lang.String)
+comment3.params=uniformName\ value
+comment3.target=void\ setUniform(java.lang.String,\ org.joml.Matrix4f)
+numComments=4

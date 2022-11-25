@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Model
+comment1.params=id\ meshList
+comment1.target=Model(java.lang.String,\ java.util.List)
+comment2.params=
+comment2.target=void\ cleanup()
+comment3.params=
+comment3.target=java.util.List\ getEntitiesList()
+comment4.params=
+comment4.target=java.lang.String\ getId()
+comment5.params=
+comment5.target=java.util.List\ getMeshList()
+numComments=6

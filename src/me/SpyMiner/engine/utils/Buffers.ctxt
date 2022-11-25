@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Buffers
-comment1.params=data
-comment1.target=java.nio.ByteBuffer\ createByteBuffer(byte[])
-comment2.params=data
-comment2.target=java.nio.FloatBuffer\ createFloatBuffer(float[])
-comment3.params=data
-comment3.target=java.nio.IntBuffer\ createIntBuffer(int[])
-numComments=4

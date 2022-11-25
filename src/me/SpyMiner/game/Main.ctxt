@@ -2,4 +2,12 @@
 comment0.target=Main
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
-numComments=2
+comment2.params=
+comment2.target=void\ cleanup()
+comment3.params=window\ scene\ render
+comment3.target=void\ init(me.spyminer.engine.Window,\ me.spyminer.engine.scene.Scene,\ me.spyminer.engine.graph.Render)
+comment4.params=window\ scene\ diffTimeMillis
+comment4.target=void\ input(me.spyminer.engine.Window,\ me.spyminer.engine.scene.Scene,\ long)
+comment5.params=window\ scene\ diffTimeMillis
+comment5.target=void\ update(me.spyminer.engine.Window,\ me.spyminer.engine.scene.Scene,\ long)
+numComments=6

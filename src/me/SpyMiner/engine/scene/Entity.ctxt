@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Entity
+comment1.params=id\ modelId
+comment1.target=Entity(java.lang.String,\ java.lang.String)
+comment10.params=scale
+comment10.target=void\ setScale(float)
+comment11.params=
+comment11.target=void\ updateModelMatrix()
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment3.params=
+comment3.target=java.lang.String\ getModelId()
+comment4.params=
+comment4.target=org.joml.Matrix4f\ getModelMatrix()
+comment5.params=
+comment5.target=org.joml.Vector3f\ getPosition()
+comment6.params=
+comment6.target=org.joml.Quaternionf\ getRotation()
+comment7.params=
+comment7.target=float\ getScale()
+comment8.params=x\ y\ z
+comment8.target=void\ setPosition(float,\ float,\ float)
+comment9.params=x\ y\ z\ angle
+comment9.target=void\ setRotation(float,\ float,\ float,\ float)
+numComments=12

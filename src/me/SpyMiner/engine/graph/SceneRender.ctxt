@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SceneRender
+comment1.params=
+comment1.target=SceneRender()
+comment2.params=
+comment2.target=void\ cleanup()
+comment3.params=
+comment3.target=void\ createUniforms()
+comment4.params=scene
+comment4.target=void\ render(me.spyminer.engine.scene.Scene)
+numComments=5

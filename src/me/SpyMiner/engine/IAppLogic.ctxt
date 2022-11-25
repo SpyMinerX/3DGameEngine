@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IAppLogic
+comment1.params=
+comment1.target=void\ cleanup()
+comment2.params=window\ scene\ render
+comment2.target=void\ init(Window,\ scene.Scene,\ graph.Render)
+comment3.params=window\ scene\ diffTimeMillis
+comment3.target=void\ input(Window,\ scene.Scene,\ long)
+comment4.params=window\ scene\ diffTimeMillis
+comment4.target=void\ update(Window,\ scene.Scene,\ long)
+numComments=5

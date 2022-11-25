@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ShaderProgram
+comment1.params=shaderModuleDataList
+comment1.target=ShaderProgram(java.util.List)
+comment2.params=
+comment2.target=void\ bind()
+comment3.params=
+comment3.target=void\ cleanup()
+comment4.params=shaderCode\ shaderType
+comment4.target=int\ createShader(java.lang.String,\ int)
+comment5.params=
+comment5.target=int\ getProgramId()
+comment6.params=shaderModules
+comment6.target=void\ link(java.util.List)
+comment7.params=
+comment7.target=void\ unbind()
+comment8.params=
+comment8.target=void\ validate()
+numComments=9

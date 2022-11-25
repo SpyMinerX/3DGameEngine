@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Logger
+comment1.params=
+comment1.target=Logger()
+comment2.params=err
+comment2.target=void\ error(java.lang.String)
+comment3.params=err
+comment3.target=void\ warning(java.lang.String)
+comment4.params=err
+comment4.target=void\ info(java.lang.String)
+numComments=5
